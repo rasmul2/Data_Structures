@@ -1,0 +1,25 @@
+HOMEWORK 6: CARCASSONNE CONTEST
+
+
+NAME:  < Loki Rasmussen >
+
+
+
+COLLABORATORS AND OTHER RESOURCES:
+< None really  >
+
+
+
+DESCRIPTION OF ANY PERFORMANCE IMPROVEMENTS/OPTIMIZATIONS:
+(same as homework)
+
+
+
+DESCRIBE INTERESTING NEW PUZZLES YOU CREATED:
+
+
+
+SUMMARY OF YOUR PERFORMANCE ON ALL PUZZLES:
+Correctness & approximate wall clock running time for various command
+line arguments.
+
